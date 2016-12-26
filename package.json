@@ -16,12 +16,27 @@
     "link"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
-  "license": "KINDLY",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Bloggify/redirect/issues"
   },
   "dependencies": {
-    "iterate-object": "^1.0.0"
+    "iterate-object": "^1.0.0",
+    "noop6": "^1.0.4"
   },
-  "homepage": "https://github.com/Bloggify/redirect#readme"
+  "homepage": "https://github.com/Bloggify/redirect#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "public/",
+    "lib/",
+    "build/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "scripts/",
+    "cli.js",
+    "index.js"
+  ]
 }
