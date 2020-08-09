@@ -1,6 +1,6 @@
 {
   "name": "bloggify-redirect",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "A Bloggify plugin to handle the link redirects.",
   "main": "lib/index.js",
   "scripts": {
