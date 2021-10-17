@@ -189,4 +189,6 @@ If you are using this library in one of your projects, add it in this list. :spa
 [badge_paypal_donate]: https://ionicabizau.github.io/badges/paypal_donate.svg
 [patreon]: https://www.patreon.com/ionicabizau
 [amazon]: http://amzn.eu/hRo9sIZ
+welcome to zakir world zakir803
+
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
