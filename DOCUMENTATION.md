@@ -5,7 +5,7 @@ You can see below the API reference of this module.
 ### `Redirect(config)`
 Initializes the redirects.
 
-#### Params
+#### Parameters
 
 - **Object** `config`: The configuration object:
     An key-value map: the key representing the old url
